@@ -119,16 +119,18 @@ export default function PyConIndiaWeb() {
           <div className="h-32 w-32 p-2 m-2">
             <Image src={greensquare} alt="greensquare" />
           </div>
+          <a className="drop-shadow-2xl a-trans-gy" href="https://docs.google.com/forms/d/e/1FAIpQLSdmlVnxDBENiXs17hQeUtgqOZdcsWI7lmQpXq5m9K-e0eS52Q/viewform"
+            target="_blank">
+            <div className="cen-flex text-center bg-py-green h-32 w-32 p-2 m-2 text-black">
+              Call For Volunteers
+            </div>
+          </a>
           <a className="drop-shadow-2xl a-trans-yg" href="#">
             <div className="cen-flex text-center bg-py-yellow h-32 w-32 p-2 m-2 text-black">
               Call For Sponsorship
             </div>
           </a>
-          <a className="drop-shadow-2xl a-trans-gy" href="#">
-            <div className="cen-flex text-center bg-py-green h-32 w-32 p-2 m-2 text-black">
-              Call For Tech Influencer
-            </div>
-          </a>
+          
           <a className="drop-shadow-2xl a-trans-yg" href="#">
             <div className="cen-flex text-center bg-py-yellow h-32 w-32 p-2 m-2 text-black">
               Call For Diversity Repersentative
